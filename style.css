@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+    color: azure;
+}
+
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: greenyellow;
+    font-weight: 600;
+    background-color: black;
+}
+
+p {
+    color: antiquewhite;
+    background-color: rgb(3, 3, 3);
+}
+
+h1 {
+    text-align: center;
+    background-color:blueviolet;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+h2 {
+    color: white;
+    font-weight: 500;
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button {
+    padding: 2px;
+    margin-left: 50%;
+    text-align: center;
+}
